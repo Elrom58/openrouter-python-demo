@@ -43,3 +43,4 @@ git push -u origin main
 git status
 git add .
 git commit -m "Update README documentation"
+git push
