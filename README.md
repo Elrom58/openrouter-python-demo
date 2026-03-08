@@ -30,3 +30,12 @@ cd openrouter-python-demo
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
+
+## Git
+
+git init
+git add .
+git commit -m "Initial commit: OpenRouter Python examples"
+git remote add origin https://github.com/YOUR_USERNAME/openrouter-python-demo.git
+git branch -M main
+git push -u origin main
